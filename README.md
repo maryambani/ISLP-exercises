@@ -1,4 +1,4 @@
-** ISLP Exercises **
+# ISLP Exercises
 
 This repository contains my completed exercises from "An Introduction to Statistical Learning with Python" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
